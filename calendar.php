@@ -12,3 +12,39 @@ $get3lettermonth  = array(
 	'NOV',
 	'DEC'
 )
+
+
+$getDayOfThStNdRd = array(
+	"th", 
+	"st", 
+	"nd", 
+	"rd", 
+	"th", 
+	"th", 
+	"th", 
+	"th", 
+	"th", 
+	"th",
+	"th", 
+	"th", 
+	"th", 
+	"th", 
+	"th", 
+	"th", 
+	"th", 
+	"th", 
+	"th", 
+	"th",
+	"th", 
+	"st", 
+	"nd", 
+	"rd", 
+	"th", 
+	"th", 
+	"th", 
+	"th", 
+	"th", 
+	"th",
+	"th", 
+	"st"
+);
